@@ -140,7 +140,7 @@ body {
     }
     section#contact {
       height: 50vh;
-      background: url(/assets/main_image.avif);
+      background: url(https://niantique.github.io/evaluation/assets/main_image.avif);
       background-size: cover;
       background-position: center;
       box-shadow: inset 0 0 0 1000px var(--primary-color-transparent);
